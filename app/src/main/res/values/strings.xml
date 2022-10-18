@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="deskripsi">Hallo, kenalin nama saya Cindy Esa biasa dipanggil Cindy, saya lahir di Grobogan pada tanggal 10 Sept 2003, usia saya sekarang 19 tahun. Saya pernah menempuh pendidikan di TK Dharma Wanita 1 Godan, lalu di SD N 3 Godan, dan melanjutkan di SMP N 1 Tawangharjo, setelah itu menempuh pendidikan di SMK N 1 Purwodadi. Saya memutuskan untuk melanjutkan kuliah di salah satu Universitas yang berada di Kota Semarang yaitu UDINUS, alasan saya kuliah disini dan alasan mengambil prodi Teknik Informatika karena saya ingin melanjutkan kejuruan yang saya ambil pada waktu SMK.</string>
+    <string name="universitass">Universitas Dian Nuswantoro</string>
+    <string name="program_studi">Teknik Informatika</string>
+    <string name="nama">Cindy Esa</string>
+    <string name="nim">A11.2021.1322</string>
+</resources>
